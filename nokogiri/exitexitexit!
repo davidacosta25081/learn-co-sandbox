@@ -1,0 +1,33 @@
+=> [1;34m#(Element:0x115acc4 {[0m
+  name = [31m[1;31m"[0m[31mli[1;31m"[0m[31m[0m,
+  attributes = [ [1;34m#(Attr:0x13a2c0c {[0m name = [31m[1;31m"[0m[31mdata-rel[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mnoma[1;31m"[0m[31m[0m })],
+  children = [
+    [1;34m#(Element:0x13a8a1c {[0m
+      name = [31m[1;31m"[0m[31ma[1;31m"[0m[31m[0m,
+      attributes = [
+        [1;34m#(Attr:0x13a838c {[0m name = [31m[1;31m"[0m[31mid[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mcontentLink_1509199[1;31m"[0m[31m[0m }),
+        [1;34m#(Attr:0x13a8378 {[0m
+          name = [31m[1;31m"[0m[31mhref[1;31m"[0m[31m[0m,
+          value = [31m[1;31m"[0m[31m/The-List-2018/1-10/Osteria-Francescana.html[1;31m"[0m[31m[0m
+          }),
+        [1;34m#(Attr:0x13a8364 {[0m
+          name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m,
+          value = [31m[1;31m"[0m[31mcontenthyperlink_link contenthyperlink_link_1266921[1;31m"[0m[31m[0m
+          })],
+      children = [
+        [1;34m#(Element:0x13b6eb4 {[0m
+          name = [31m[1;31m"[0m[31mp[1;31m"[0m[31m[0m,
+          attributes = [
+            [1;34m#(Attr:0x13b6824 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mposition[1;31m"[0m[31m[0m })],
+          children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mNo.1[1;31m"[0m[31m[0m)]
+          }),
+        [1;34m#(Element:0x13be984 {[0m
+          name = [31m[1;31m"[0m[31mh2[1;31m"[0m[31m[0m,
+          children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mOsteria Francescana[1;31m"[0m[31m[0m)]
+          }),
+        [1;34m#(Element:0x13c50e0 {[0m
+          name = [31m[1;31m"[0m[31mh3[1;31m"[0m[31m[0m,
+          children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mModena, Italy[1;31m"[0m[31m[0m)]
+          })]
+      })]
+  })
